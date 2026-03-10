@@ -15,43 +15,38 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Ikshan</h5>
+                <h4>Junior Software Trainee</h4>
+                <h5>Moh10 Technologies</h5>
               </div>
-              <h3>2020</h3>
+              <h3>2024-2025</h3>
             </div>
             <p>
-              Built 6+ complete applications using React.js. Integrated backend
-              authentication using Node.js & MongoDB. Created responsive UI/UX
-              and designed wireframes using Figma.
+              Designed and developed scalable backend systems using Java
+              and Spring Boot, including a full CRUD Employee Management System
+              with structured REST APIs. Integrated a Speech-to-Text feature using
+              the Web Speech API with a Spring Boot backend to enhance accessibility
+              in the Jyotsna application. Built responsive UI components using
+              HTML, CSS, and JavaScript, seamlessly connecting them with backend APIs.
+              Performed automation testing with Selenium WebDriver for the Lyncc web application,
+              improving software quality, while actively collaborating with cross-functional
+              teams in an Agile development environment.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Senior Full Stack Developer</h4>
-                <h5>Monocept (Max Life Insurance)</h5>
+                <h4>Data Science Intern</h4>
+                <h5>Unified Mentor Private Limited</h5>
               </div>
-              <h3>2021</h3>
+              <h3>2025-2026</h3>
             </div>
             <p>
-              Led two development teams on Mpro, a large-scale insurance
-              operations platform. Developed multiple modules using React.js &
-              migrated critical functionalities to Node.js microservices.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Full Stack Developer</h4>
-                <h5>Logic Loop</h5>
-              </div>
-              <h3>NOW</h3>
-            </div>
-            <p>
-              Building Solid, a proprietary low-code platform using Angular,
-              Next.js & NestJS. Delivering production-ready CMS-based projects
-              including e-commerce, CRM, and import-export automation systems.
+              Engineered and optimized machine learning pipelines using Python, Scikit-learn,
+              and Pandas, improving predictive accuracy by 15% on real-world datasets.
+              Conducted exploratory data analysis and feature engineering to uncover trends
+              and deliver insights through Matplotlib and Seaborn visualizations,
+              while following responsible AI practices including data normalization, bias
+              reduction, and robust model validation.
             </p>
           </div>
         </div>

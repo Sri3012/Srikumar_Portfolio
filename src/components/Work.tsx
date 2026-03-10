@@ -5,35 +5,29 @@ import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
 const projects = [
   {
-    title: "Solid Starters",
-    category: "Low-Code Platform",
-    tools: "Angular, Next.js, NestJS, MongoDB",
-    image: "/images/Solidx.png",
+    title: "Employee Management System",
+    category: "Corporate Tools",
+    tools: "Java, SpringBoot, React, Node.js, MySQL",
+    image: "/images/EMS.png",
   },
   {
-    title: "Radix",
-    category: "E-Commerce",
-    tools: "Angular, Next.js, NestJS, CMS",
-    image: "/images/radix.png",
+    title: "Stock Price Prediction",
+    category: "Machine Learning & Finance",
+    tools: "Python, TensorFlow/Keras, Pandas, Scikit-learn",
+    image: "/images/SPP.png",
   },
   {
-    title: "Bond Cancellation",
-    category: "Import-Export Automation",
-    tools: "Angular, Next.js, NestJS, Workflows",
-    image: "/images/bond.png",
+    title: "Sign Language to Text",
+    category: "Computer Vision & Accessibility",
+    tools: "Python, OpenCV, PyTorch/TensorFlow, MediaPipe",
+    image: "/images/SL.png",
   },
   {
-    title: "Sapphire",
-    category: "CRM Platform",
-    tools: "AngularJS, NestJS, PostgreSQL",
-    image: "/images/sapphire.png",
-  },
-  {
-    title: "Mpro",
-    category: "Insurance Platform",
-    tools: "React.js, Node.js, Microservices",
-    image: "/images/Maxlife.png",
-  },
+    title: "Speech to Text Conversion",
+    category: "Natural Language Processing (NLP)",
+    tools: "Python, SpeechRecognition Lib, DeepSpeech",
+    image: "/images/STT.png",
+  }
 ];
 
 const Work = () => {

@@ -1,16 +1,19 @@
-# My Portfolio Wesbite - Overview 🚀
+# Srikumar Das - Personal Portfolio Website 🚀
 
-This repository contains the open source version of my porfolio website.
-Do check it out!
+Welcome to my personal portfolio repository! This project serves as a comprehensive showcase of my skills, projects, and professional background as a Software Developer and AI & ML Engineer.
 
-## Instructions 🛠️
+## About the Project
+This portfolio website is designed to be highly interactive, modern, and visually appealing. It utilizes 3D rendering and smooth animations to provide an engaging user experience, illustrating my ability to build polished and dynamic frontend applications.
 
-I have modified the gsap club plugins with the trial plugins, but with the trial plugin you cannot host it🔴. So for Club plugins, Check out here: https://gsap.com/docs/v3/Installation/
+## 🛠️ Tech Stack Used
 
-**Techstack** - React, TypeScript, GSAP, ThreeJS, WebGL, HTML, Css, JavaScript
+This project was built with modern web technologies:
 
-![Portfolio-Preview](public/images/preview.png)
+* **Framework:** React with TypeScript (via Vite)
+* **3D Graphics:** Three.js, React Three Fiber, React Three Drei, Postprocessing
+* **Physics Engine:** React Three Rapier (for interactive 3D elements)
+* **Animations:** GSAP (GreenSock Animation Platform)
+* **Styling:** Custom CSS, HTML5
+* **Routing & Icons:** React Icons
 
-## License
-
-This project is open source and available under the [MIT License](LICENSE).
+*Note: The project uses trial versions of some GSAP plugins for animations. If you plan to host a fork of this, ensure you review GSAP Club licensing.*
